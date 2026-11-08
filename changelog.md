@@ -1,3 +1,5 @@
+# 1.1.0
+- Ported to Geode v6.0.0-alpha.1 (GD 2.2091)
 # 1.0.6
 - Added Smart Swift. Checks How Many Multi Activate Orbs (Of Choice) and Checks How Many Clicks/Frame Should Happen. Lowered Clicks/Frame Minumum to 1 So It Works With Advanced Settings (If You Want Normal Clicks/Frame at First Then Want 2 or More Clicks/Frame at a Later Percentage)
 # 1.0.5
